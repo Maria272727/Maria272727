@@ -4,14 +4,12 @@
 ## Я начинающий QA engineer
 
 ### Инструменты|Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?stule=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![JIRA](https://img.shields.io/badge/-Jira-090909?stule=for-the-badge&logo=jira&logoColor=0052CC)
 ![Postman](https://img.shields.io/badge/-Postman-090909?stule=for-the-badge&logo=Postman&logoColor=FF6C37)
-![Swagger](https://img.shields.io/badge/-Swagger-090909?stule=for-the-badge&logo=Swagger&logoColor=47C5FB)
-![Confluence](https://img.shields.io/badge/-Confluence-090909?stule=for-the-badge&logo=Confluence&logoColor=47C5FB)
-![MySQL](https://img.shields.io/badge/-MySQL-090909?stule=for-the-badge&logo=MySQL&logoColor=47C5FB)
-![Charles](https://img.shields.io/badge/-Charles-090909?stule=for-the-badge&logo=Charles&logoColor=47C5FB)
-![Fidder](https://img.shields.io/badge/-Fidder-090909?stule=for-the-badge&logo=Fidder&logoColor=47C5FB)
+![Swagger](https://img.shields.io/badge/-Swagger-090909?stule=for-the-badge&logo=Swagger&logoColor=85EA2D)
+![Confluence](https://img.shields.io/badge/-Confluence-090909?stule=for-the-badge&logo=Confluence&logoColor=172B4D)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?stule=for-the-badge&logo=MySQL&logoColor=4479A1)
+![Charles](https://img.shields.io/badge/-Charles-090909?stule=for-the-badge&logo=Charles&logoColor=F3F5F5)
 <div>
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
 <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
