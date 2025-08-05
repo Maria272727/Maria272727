@@ -10,6 +10,6 @@ Languages and Tools
 ### Контактная информация|Contact information
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?stule=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/palyanova_m)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?stule=for-the-badge&logo=gmail&logoColor=005FF9)][mariapalanova666@gmail.com](mailto:mariapalanova666@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?stule=for-the-badge&logo=gmail&logoColor=005FF9)](mailto:mariapalanova666@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria272727)](https://github.com/Maria272727/github-readme-stats?stule=dark)
