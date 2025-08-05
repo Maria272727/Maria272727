@@ -2,6 +2,6 @@ HEADER
 
 About me
 
-Language and Tools
+Languages and Tools
 
-Follow me
+Follow Me
