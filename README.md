@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет!👋
 
 <!--
 **Maria272727/Maria272727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
