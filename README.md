@@ -2,7 +2,11 @@
 
 ## Я начинающий QA engineer
 
-### Инструменты|Tools
+### Контактная информация | Contact information
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?stule=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/palyanova_m)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?stule=for-the-badge&logo=gmail&logoColor=005FF9)](mailto:mariapalanova666@gmail.com)
+
+### Инструменты | Tools
 ![JIRA](https://img.shields.io/badge/-Jira-090909?stule=for-the-badge&logo=jira&logoColor=0052CC)
 ![Postman](https://img.shields.io/badge/-Postman-090909?stule=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?stule=for-the-badge&logo=Swagger&logoColor=85EA2D)
@@ -14,7 +18,7 @@
 <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
-### Навыки|Skills
+### Навыки | Skills
 - Работа с СУБД (Базовые запросы в MySQL)
 - Тестирование API (Postman, SoapUI, Swagger, Confluence)
 - Jira
@@ -30,9 +34,7 @@
 - Английский — A1 
 - Китайский - A2
 - Немецкий — B1
-
-### Контактная информация|Contact information
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?stule=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/palyanova_m)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?stule=for-the-badge&logo=gmail&logoColor=005FF9)](mailto:mariapalanova666@gmail.com)
+### Сертификат | Certificate
+[![Certificate](https://stepik.org/cert/2929119)](https://stepik.org/cert/2929119)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria272727)](https://github.com/Maria272727/github-readme-stats?stule=dark)
