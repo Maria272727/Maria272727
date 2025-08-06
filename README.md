@@ -35,6 +35,6 @@
 - Китайский - A2
 - Немецкий — B1
 ### Сертификат | Certificate
-[![Тестирование ПО с нуля, 2025](https://stepik.org/cert/2929119)](https://stepik.org/cert/2929119)
+[Тестирование ПО с нуля, 2025](https://stepik.org/cert/2929119)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maria272727)](https://github.com/Maria272727/github-readme-stats?stule=dark)
