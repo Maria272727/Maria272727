@@ -23,6 +23,11 @@
 - Тестирование веб-приложений
 - Основы HTML и CSS
 - Работа с логами
+**Знание языков:**
+- Русский — Родной
+- Английский — A1 
+- Немецкий — B1
+- Китайский - A2
 ### Контактная информация|Contact information
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?stule=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/palyanova_m)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?stule=for-the-badge&logo=gmail&logoColor=005FF9)](mailto:mariapalanova666@gmail.com)
