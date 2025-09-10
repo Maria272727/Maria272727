@@ -33,8 +33,10 @@
 **Знание языков:**
 - Русский - носитель
 - Немецкий — B1
-### Портфолио | porprppr
-[Тест-кейс и чек-лист](https://docs.google.com/spreadsheets/d/16227bxV2KZ6gW7uwKT8eiyuJwit_kOE0xdka_MG5OLI/edit?gid=0#gid=0)
+### Портфолио | Portfolio
+[Тест-кейсы и чек-листы](https://docs.google.com/spreadsheets/d/16227bxV2KZ6gW7uwKT8eiyuJwit_kOE0xdka_MG5OLI/edit?gid=0#gid=0)
+[Баг-репорты](https://docs.google.com/spreadsheets/d/13-tiu1cF8PVNC_gxOOUhiJrymoKSXXC8QAEwPdJQ99g/edit?gid=0#gid=0)
+[SQL запросы](https://docs.google.com/spreadsheets/d/1kvs12Ky1mzrOpBBuNtuYZzSKy6DjwkefpqH905xbaDQ/edit?gid=0#gid=0)
 ### Сертификат | Certificate
 [Тестирование ПО с нуля, 2025](https://stepik.org/cert/2929119)
 
